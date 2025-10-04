@@ -1,0 +1,1 @@
+This is a beginner project, it is a flashcard app implemented using tkinter for visuals and uses an adapted version of SuperMemo 2 for spaced repetition. It allows for text to speech and speech to text. It has basic user authentication and has database base backed storage
